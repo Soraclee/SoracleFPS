@@ -1,4 +1,4 @@
-# soracleFPS - FPS Limit
+# SoracleFPS - FPS Limit
 
 <img src="https://i.ibb.co/kgb3B9xV/d2bb3adf-f502-4f2b-b304-d3d6acd7dd85-screenshot.png">
 If you need to limit players' FPS on your server, this script is made for you. For example, during a car race, you can enforce an FPS limit to ensure fairness between all participants. This allows everyone to play under the same conditions and guarantees a more balanced and competitive gaming experience.
