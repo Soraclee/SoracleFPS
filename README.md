@@ -5,6 +5,8 @@ If you need to limit players' FPS on your server, this script is made for you. F
 
 __**Preview :**__ [YouTube](https://www.youtube.com/watch?v=HnaLZ3APEB4)
 
+__**Link :**__ [https://soracle.tebex.io/package/soraclefps](https://soracle.tebex.io/package/soraclefps)
+
 __**Usage :**__
 
 Use <code>exports["soracleFPS"]:SetFPSCap(fpsLimit)</code> to set the FPS cap, and <code>exports["soracleFPS"]:DisableFPSCap()</code> to disable it.
